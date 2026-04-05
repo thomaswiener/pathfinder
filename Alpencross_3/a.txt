@@ -1,7 +1,0 @@
-ort:
-  - jenbach
-    hotels:
-    - https://www.gopost.at/
-  - sterzing
-  - cortina d'ampezzo
-  
